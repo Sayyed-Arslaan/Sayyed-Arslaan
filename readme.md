@@ -1,4 +1,81 @@
 <h1 align="center">Hi 👋, I'm Sayyed Arslaan </h1>
+<div class="gravatar-hovercard"><style></style>
+			<div class="gravatar-hovercard__inner">
+				
+				<div class="gravatar-hovercard__header">
+					<a class="gravatar-hovercard__avatar-link" href="https://gravatar.com/arslaansayed936?utm_source=hovercard" target="_blank">
+						<img class="gravatar-hovercard__avatar" src="https://0.gravatar.com/avatar/9f65e1da2a2d92884ab2964bf27da59445526a99152d1327a847dabd3a295532?s=256" width="104" height="104" alt="Sayyed Arslaan">
+					</a>
+					<a class="gravatar-hovercard__personal-info-link" href="https://gravatar.com/arslaansayed936?utm_source=hovercard" target="_blank">
+						<h4 class="gravatar-hovercard__name">Sayyed Arslaan</h4>
+						
+						<p class="gravatar-hovercard__location">Ayodhya, Faizabad, INDIA</p>
+					</a>
+				</div>
+				<div class="gravatar-hovercard__body">
+								<p class="gravatar-hovercard__description">Frontend learner | HTML, CSS, JS Always curious</p>
+							</div>
+				<div class="gravatar-hovercard__social-links">
+					<a class="gravatar-hovercard__social-link" href="https://gravatar.com/arslaansayed936?utm_source=hovercard" target="_blank" data-service-name="gravatar">
+						<img class="gravatar-hovercard__social-icon" src="https://s.gravatar.com/icons/gravatar.svg" width="32" height="32" alt="Gravatar">
+					</a>
+					
+					<a class="gravatar-hovercard__social-link" href="https://threads.net/sayyed_arslaaaaan" target="_blank" data-service-name="threads">
+						<img class="gravatar-hovercard__social-icon" src="https://s.gravatar.com/icons/threads.svg" width="32" height="32" alt="Threads">
+					</a>
+				
+					<a class="gravatar-hovercard__social-link" href="https://x.com/arslaansayyed47" target="_blank" data-service-name="twitter">
+						<img class="gravatar-hovercard__social-icon" src="https://s.gravatar.com/icons/x.svg" width="32" height="32" alt="X">
+					</a>
+				
+					<a class="gravatar-hovercard__social-link" href="https://stackoverflow.com/users/30568771/sayyedarslaan" target="_blank" data-service-name="stackoverflow">
+						<img class="gravatar-hovercard__social-icon" src="https://s.gravatar.com/icons/stackoverflow.svg" width="32" height="32" alt="Stack Overflow">
+					</a>
+				
+				</div>
+				
+				<div class="gravatar-hovercard__footer">
+					<a class="gravatar-hovercard__profile-url" title="https://gravatar.com/arslaansayed936" href="https://gravatar.com/arslaansayed936?utm_source=profile-card" target="_blank">
+						gravatar.com/arslaansayed936
+					</a>
+					<a class="gravatar-hovercard__profile-link" href="https://gravatar.com/arslaansayed936?utm_source=profile-card" target="_blank">
+						View profile →
+					</a>
+				</div>
+				
+				
+				
+			</div>
+		<script>
+		const hovercardInner = document.querySelector('.gravatar-hovercard__inner');
+
+		function openDrawer( target, container ) {
+			const selector = '.gravatar-hovercard__drawer[data-drawer-name="' + target.dataset.targetDrawer + '"]';
+			const drawer = container.querySelector( selector );
+			drawer?.classList.add( 'gravatar-hovercard__drawer--open' );
+		}
+
+		function closeDrawer( target, container ) {
+			const selector = '.gravatar-hovercard__drawer[data-drawer-name="' + target.dataset.targetDrawer + '"]';
+			const drawer = container.querySelector( selector );
+			drawer?.classList.add( 'gravatar-hovercard__drawer--closing' );
+			drawer?.classList.remove( 'gravatar-hovercard__drawer--open' );
+			
+			setTimeout( () => {
+				drawer?.classList.remove( 'gravatar-hovercard__drawer--closing' );
+			}, 300 );
+		}
+
+		hovercardInner.querySelectorAll( '.gravatar-hovercard__button' ).forEach( ( el ) => {
+			el.addEventListener( 'click', () => openDrawer( el, hovercardInner ) );
+		} );
+		hovercardInner.querySelectorAll( '.gravatar-hovercard__drawer-close' ).forEach( ( el ) => {
+			el.addEventListener( 'click', () => closeDrawer( el, hovercardInner ) );
+		} );
+		hovercardInner.querySelectorAll( '.gravatar-hovercard__drawer-backdrop' ).forEach( ( el ) => {
+			el.addEventListener( 'click', () => closeDrawer( el, hovercardInner ) );
+		} );
+	</script></div> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyedarslaan4712&label=Profile%20views&color=0e75b6&style=flat" alt="sayyedarslaan4712" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayyedarslaan4712&theme=" alt="sayyedarslaan4712" /></a> </p>
