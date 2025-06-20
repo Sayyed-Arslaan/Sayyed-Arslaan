@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sayyed Arslaan </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyedarslaan4712&label=Profile%20views&color=0e75b6&style=flat" alt="sayyedarslaan4712" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayyed-Arslaan&label=Profile%20views&color=0e75b6&style=flat" alt="Sayyed-Arslaan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayyedarslaan4712&theme=" alt="sayyedarslaan4712" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sayyed-Arslaan&theme=" alt="Sayyed-Arslaan" /></a> </p>
 
 <div> <a href="https://twitter.com/arslaansayyed47" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://github.com/sayyedarslaan4712" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/Sayyed-Arslaan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/sayyedarslaaaaan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,20 +53,20 @@
 <p><a href="https://www.buymeacoffee.com/SayyedArslaan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SayyedArslaan" /></a></p><br><br>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyedarslaan4712&langs_count=8&theme=tokyonight" alt=sayyedarslaan4712 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayyed-Arslaan&langs_count=8&theme=tokyonight" alt=Sayyed-Arslaan />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sayyedarslaan4712&show_icons=true&locale=en&theme=tokyonight" alt="sayyedarslaan4712" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sayyed-Arslaan&show_icons=true&locale=en&theme=tokyonight" alt="Sayyed-Arslaan" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sayyedarslaan4712&theme=tokyonight" alt="sayyedarslaan4712" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayyed-Arslaan&theme=tokyonight" alt="Sayyed-Arslaan" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/sayyedarslaan4712">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayyedarslaan4712&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayyedarslaan4712&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sayyedarslaan4712&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayyedarslaan4712&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayyedarslaan4712&theme=tokyonight" height="180em" />
+<a href="https://github.com/Sayyed-Arslaan">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayyed-Arslaan&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayyed-Arslaan&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayyed-Arslaan&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayyed-Arslaan&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayyed-Arslaan&theme=tokyonight" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sayyedarslaan4712&theme=tokyo-night"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sayyed-Arslaan&theme=tokyo-night"/>
